@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kareem-mohamed-wardany/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kareem-mohamed-wardany/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kareem%20Mohamed%20Wardany-blue?style=flat-square&logo=linkedin"></a>
 <a href="kareemwardany1111@gmail.com
-"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+"><img alt="Email" src="https://img.shields.io/badge/Email-kareemwardany1111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
