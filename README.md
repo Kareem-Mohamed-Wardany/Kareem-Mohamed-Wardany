@@ -31,7 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/Kareem-Mohamed-Wardany">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kareem-Mohamed-Wardany&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem-Mohamed-Wardany&theme=buefy&layout=compact" />
 </a>
@@ -41,8 +41,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kareem-mohamed-wardany/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kareem%20Mohamed%20Wardany-blue?style=flat-square&logo=linkedin"></a>
-<a href="kareemwardany1111@gmail.com
-"><img alt="Email" src="https://img.shields.io/badge/Email-kareemwardany1111@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="kareemwardany1111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kareemwardany1111@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
