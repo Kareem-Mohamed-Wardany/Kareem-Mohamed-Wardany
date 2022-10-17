@@ -38,5 +38,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/kareem-mohamed-wardany/"><img src="https://img.shields.io/badge/-Kareem%20Mohamed%20Wardany-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kareemwardany1111@gmail.com"><img src="https://img.shields.io/badge/-kareemwardany1111@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://facebook.com/WeezyyWardany"><img src="https://img.shields.io/badge/-@Kareem%20Mohamed%20Wardany-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/WeezyyWardany"><img src="https://img.shields.io/badge/-Kareem%20Mohamed%20Wardany-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
