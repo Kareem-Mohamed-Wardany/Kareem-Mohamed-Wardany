@@ -36,7 +36,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kareem-mohamed-wardany/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kareem%20Mohamed%20Wardany-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:kareemwardany1111@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kareemwardany1111@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://facebook.com/WeezyyWardany"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kareem-mohamed-wardany/"><img src="https://img.shields.io/badge/-Kareem%20Mohamed%20Wardany-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:kareemwardany1111@gmail.com"><img src="https://img.shields.io/badge/-kareemwardany1111@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://facebook.com/WeezyyWardany"><img src="https://img.shields.io/badge/-@Kareem%20Mohamed%20Wardany-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
