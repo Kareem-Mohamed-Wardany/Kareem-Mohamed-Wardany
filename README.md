@@ -32,7 +32,11 @@
 </a>
 
 <br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en&layout=compact" alt="Kareem-Mohamed-Wardany" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en" alt="Kareem-Mohamed-Wardany" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem-Mohamed-Wardany&" alt="Kareem-Mohamed-Wardany" /></p>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
