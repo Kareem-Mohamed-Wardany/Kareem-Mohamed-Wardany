@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at Ain Shams University.
 - 🌱 &nbsp; Learning more about front-end development.
-- 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
