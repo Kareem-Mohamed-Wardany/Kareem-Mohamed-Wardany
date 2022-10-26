@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Computer Science at Ain Shams University.
 - 🌱 &nbsp; Learning more about front-end development.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-tarekk&label=Profile%20views&color=0e75b6&style=flat" alt="karim-tarekk" /> </p>
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,7 +37,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem-Mohamed-Wardany&" alt="Kareem-Mohamed-Wardany" /></p>
 
 <br/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kareem-Mohamed-Wardany&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem-Mohamed-Wardany" /> </p>
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
