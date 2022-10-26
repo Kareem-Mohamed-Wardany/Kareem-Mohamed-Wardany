@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
+
 <h2> Hey there! I'm Kareem.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
