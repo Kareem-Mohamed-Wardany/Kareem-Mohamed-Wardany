@@ -45,15 +45,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kareem-Mohamed-Wardany&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem-Mohamed-Wardany" /> </p>
 </div>
 
-<br>
-<br>
-<br>
------
-<br>
-<br>
-<br/>
-
-
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
