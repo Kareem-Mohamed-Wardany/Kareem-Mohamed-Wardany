@@ -44,9 +44,8 @@
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kareem-Mohamed-Wardany&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem-Mohamed-Wardany" /> </p>
 <div align="center">
-	
 
-![Kareem-Mohamed-Wardany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kareem-Mohamed-Wardany&layout=compact&theme=synthwave&v=2)
+[![wakatime](https://wakatime.com/badge/user/1c065d52-f4b0-4b21-88fc-77a47917bed6.svg)](https://wakatime.com/@1c065d52-f4b0-4b21-88fc-77a47917bed6)
 
 
 </div>
