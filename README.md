@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)
 
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kareem+Mohamed+Wardany..&hearts;++;Learning+Front-End+Developer,;Computer+Science+Student,;Love+Coding,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a></p>
-<h2 align="center"> Hey there! I'm Kareem. <img src="code.gif" width ="75"></h2>
+<h2 align="center"> Hey there! I'm Kareem.</h2>
 
 <picture> <img align="right" src="image.gif" width = 250px></picture>
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
@@ -14,7 +14,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-- 💻 &nbsp;
+- 💻 &nbsp; <img src="code.gif" width ="75" align="right">
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
