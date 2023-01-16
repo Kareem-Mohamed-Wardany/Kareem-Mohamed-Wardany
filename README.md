@@ -3,8 +3,8 @@
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kareem+Mohamed+Wardany..&hearts;++;Learning+Front-End+Developer,;Computer+Science+Student,;Love+Coding,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a></p>
 <h2 align="center"> Hey there! I'm Kareem.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 <picture> <img align="right" src="image.gif" width = 250px></picture>
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science at Ain Shams University.
 - 🌱 &nbsp; Learning more about front-end development.
