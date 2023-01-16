@@ -43,7 +43,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kareem-Mohamed-Wardany&&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Kareem-Mohamed-Wardany&"/>
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kareem-Mohamed-Wardany&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem-Mohamed-Wardany" /> </p>
-<a href="https://wakatime.com/@1c065d52-f4b0-4b21-88fc-77a47917bed6"><img src="https://wakatime.com/badge/user/1c065d52-f4b0-4b21-88fc-77a47917bed6.svg" alt="Total time coded since Oct 3 2022" /></a>
+![Kareem-Mohamed-Wardany's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=1c065d52-f4b0-4b21-88fc-77a47917bed6&layout=compact&theme=synthwave&v=2)
+
 </div>
 
 <br><br>
