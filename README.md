@@ -1,9 +1,10 @@
-
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kareem+Mohamed+Wardany..&hearts;++;Learning+Front-End+Development,;Computer+Science+Student,;Love+Coding,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a></p>
 <h2 align="center"> Hey there! I'm Kareem.</h2>
 
 <picture> <img align="right" src="image.gif" width = 250px></picture>
+
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
+
 <p>- 🤔 &nbsp; Exploring new technologies.</p>
 <p>- 🎓 &nbsp; Studying Computer Science at Ain Shams University.</p>
 <p>- 🌱 &nbsp; Learning more about front-end development.</p>
@@ -21,6 +22,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![React](https://camo.githubusercontent.com/9b5f161a8835a1576eb0bf43b0da00cb0ac54c4e51d2b96ac9546f336a232143/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp;
@@ -33,6 +35,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <br>
 
 <div align="center">
@@ -45,7 +48,6 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
