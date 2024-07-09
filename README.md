@@ -15,22 +15,35 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 - 💻 &nbsp; <img src="code.gif" width ="200" align="right">
-  ![Python](https://camo.githubusercontent.com/c13a4f09d60025115ab08338417d32b41cede48e68f7c0381dc2996c92bca2c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e)
-  ![Java](https://camo.githubusercontent.com/46c53029512636b30e6ece9e24e78b70123a80c3a1c913270580e9dca9fa2262/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
-  ![C++][(https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C](https://camo.githubusercontent.com/81542a02be402ab5f490b0ea7048c3785bda578ef41a72fa06db9cecdcfe2d27/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63))
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+
 - 🌐 &nbsp;
-  ![HTML5](https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-  ![CSS](https://camo.githubusercontent.com/1cce2dc4bb406a5019322c3f123da088d108b8ee7cb3a7d7918c9893d6d828f3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c61742d737175617265266c6f676f3d63737333)
-  ![JavaScript](https://camo.githubusercontent.com/6eee5f6e83f1fdb987a4a5707fb989fc10646367244e505ee289b93909c78932/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074)
-  ![TypeScript](https://camo.githubusercontent.com/3967302e1e261d1fa7796d848ac2db1c587e1beda0291744c56578dea7eca6dd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d74797065736372697074)
-  ![React](https://camo.githubusercontent.com/9b5f161a8835a1576eb0bf43b0da00cb0ac54c4e51d2b96ac9546f336a232143/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+  ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
