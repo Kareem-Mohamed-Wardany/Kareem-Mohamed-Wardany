@@ -54,7 +54,7 @@
 
 <div align="center">
 <a href="https://github.com/Kareem-Mohamed-Wardany/">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en&layout=compact " alt="Kareem-Mohamed-Wardany" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en&layout=compact" alt="Kareem-Mohamed-Wardany" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en" alt="Kareem-Mohamed-Wardany" /></p>
 
