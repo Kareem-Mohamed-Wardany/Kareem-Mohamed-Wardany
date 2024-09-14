@@ -14,6 +14,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 
+# <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ##### 👨‍💻 Programming Languages &nbsp;
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)
@@ -52,9 +54,12 @@
 
 <div align="center">
 <a href="https://github.com/Kareem-Mohamed-Wardany/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kareem-Mohamed-Wardany&&include_all_commits=true&count_private=true&show_icons=**true**&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kareem-Mohamed-Wardany&&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Kareem-Mohamed-Wardany&"/>
-</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en&layout=compact " alt="Kareem-Mohamed-Wardany" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kareem-Mohamed-Wardany&show_icons=true&locale=en" alt="Kareem-Mohamed-Wardany" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem-Mohamed-Wardany&" alt="Kareem-Mohamed-Wardany" /></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kareem-Mohamed-Wardany&label=Profile%20views&color=0e75b6&style=flat" alt="Kareem-Mohamed-Wardany" /> <img src="https://wakatime.com/badge/user/1c065d52-f4b0-4b21-88fc-77a47917bed6.svg" alt="Total time coded since Oct 3 2022" /></p>
 </div>
 
