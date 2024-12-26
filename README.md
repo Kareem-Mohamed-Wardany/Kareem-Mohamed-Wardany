@@ -7,7 +7,7 @@
 
 <p>- 🤔 &nbsp; Exploring new technologies.</p>
 <p>- 🎓 &nbsp; Graduate of Computer Science Ain Shams University.</p>
-<p>- 🌱 &nbsp; Learning more about Front-End Development.</p>
+<p>- 🌱 &nbsp; Learning more about MERN Stack Development.</p>
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
