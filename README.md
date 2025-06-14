@@ -1,4 +1,9 @@
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Kareem+Mohamed+Wardany..&hearts;++;Full+Stack+Developer,;MERN Stack Developer...;MEAN+Stack+Developer...;.Net+Developer...;Love+Coding,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a></p>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Kareem+Mohamed+Wardany..+♥;Full+Stack+Developer;MERN+Stack+Developer;MEAN+Stack+Developer;.NET+Developer;Love+Coding;Active+Learner;Love+to+learn+new+things+<3" alt="Typing SVG">
+  </a>
+</p>
+
 <h2 align="center"> Hey there! I'm Kareem.</h2>
 
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
@@ -36,8 +41,6 @@
 ##### 🖥️ Operating system &nbsp;
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-<!-- [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) -->
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br/><br/>
