@@ -12,7 +12,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## <img src="skill.gif" width ="25"/> Skills
+## <img src="skill.webp" width ="25"/> Skills
 
 ##### 👨‍💻 Programming Languages &nbsp;
 
