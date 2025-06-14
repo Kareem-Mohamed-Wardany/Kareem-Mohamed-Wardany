@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h2 align="center"> Hey there! I'm Kareem.</h2>
-
 ## <picture><img src = "about_me.gif" width = 50px></picture> **About me**
 
 <p>- 🤔 &nbsp; Exploring new technologies.</p>
